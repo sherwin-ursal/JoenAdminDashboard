@@ -382,6 +382,13 @@ body {
 	justify-content: center;
 	align-items: center;
 }
+#content main .box-info li img {
+	height: 580px;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 #content main .box-info li:nth-child(1) .bx {
 	background: var(--light-blue);
 	color: var(--blue);
